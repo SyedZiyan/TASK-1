@@ -1,5 +1,5 @@
-## TASK1A 
-## Comprehensive Guide to Generative Adversarial Networks (GANs)
+## TASK1 
+## A Comprehensive Guide to Generative Adversarial Networks (GANs)
 Generative Adversarial Networks (GANs) are a class of artificial intelligence algorithms used in machine learning for generating new data instances. They consist of two neural networks, namely the generator and the discriminator, which are trained in an adversarial manner. GANs have gained immense popularity due to their ability to generate realistic data, such as images, music, and text, that closely mimic the original input data.
 
 Importance in Machine Learning and AI: GANs play a crucial role in advancing machine learning and artificial intelligence applications. They enable the creation of synthetic data, which can be used for training models, data augmentation, and enhancing dataset diversity. GANs also contribute to creative applications like image generation, style transfer, and even improving the resolution of images and videos.
